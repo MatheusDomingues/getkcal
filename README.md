@@ -1,6 +1,7 @@
 # getkcal
 
 Estes são os arquivos iniciais do projeto **getkcal** feito por [Mateus Silva](https://github.com/maateusilva) em um dos seus videos aulas.
+O projeto tem como objetivo armazenar seu tamanho e peso com o tipo de atividade que você faz, e fazer um cálculo de IMC para saber um média de quantas calorias você deve perder/ganhar para ter uma boa saúde.
 
 ## Instalação
 
